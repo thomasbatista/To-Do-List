@@ -9,8 +9,9 @@ Uma aplicação simples de lista de tarefas feita com HTML, CSS e JavaScript.
 3. Clique sobre uma tarefa para marcá-la como concluída.
 4. Clique em "Deletar" para remover uma tarefa da lista.
 
-## Estrutura do projeto
+## Funcionalidades
 
-- `index.html` — Página principal da aplicação.
-- `style.css` — Estilos da interface.
-- `script.js` — Lógica da lista de tarefas.
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas da lista
+- Interface simples e intuitiva
